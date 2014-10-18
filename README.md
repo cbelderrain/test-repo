@@ -1,4 +1,4 @@
 test-repo
 =========
 
-This is a test repo (Coursera's DS Toolbox).
+This is a test repo where I'll create a Processing Gist.
